@@ -12,3 +12,6 @@ c2
 
 ## Copyright
 ble
+
+## how to contribute
+ble ble
